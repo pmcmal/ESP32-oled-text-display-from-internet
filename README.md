@@ -10,3 +10,4 @@ Ten kod umożliwia użycie płytki ESP32 z wbudowanym ekranem OLED do wyświetla
 4. install adafruit_ssd1306 library
 5. install httpclient library
 6. select wemos lolin32 and flash :)
+![IMG_20231003_145316](https://github.com/pmcmal/ESP32-oled-text-display-from-internet/assets/89246706/97bbce66-cf2d-482e-9342-ec200e25b1b2)
