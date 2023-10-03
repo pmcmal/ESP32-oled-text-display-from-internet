@@ -2,3 +2,7 @@
 2. Miłego dnia!
 3. Pozdrawiam działa!
 4. Hello world
+5. Bla bla bla
+6. Co tam?
+7. Ile zmieści tekstu oled?
+8. Smacznej kawki
