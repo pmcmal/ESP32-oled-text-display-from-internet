@@ -6,4 +6,7 @@ Ten kod umożliwia użycie płytki ESP32 z wbudowanym ekranem OLED do wyświetla
 /INSTRUCTION/
 1. simply download arduino ide on computer
 2. install CP210x universal driver
-3. 
+3. INSTALL ESP32 boards in arduino ide
+4. install adafruit_ssd1306 library
+5. install httpclient library
+6. select wemos lolin32 and flash :)
